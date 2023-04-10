@@ -1,5 +1,5 @@
 pandas
-pinecone
+pinecone-client
 openai
 tqdm
 flask
