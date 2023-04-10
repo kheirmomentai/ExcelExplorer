@@ -1,0 +1,401 @@
+Region ,Country ,By Category,Type,Form ,Distribution Channel,Unit ,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025,2026,2027,2028
+North America,All,Meat ,All,All,All,Kilograms/capita,97.68,97.84,97.99,98.09,98.20,98.24,98.27,98.31,98.34,98.38,98.42,98.45,98.49
+North America,All,Meat ,Beef,All,All,Kilograms/capita,25.20,25.44,25.46,25.49,25.52,25.53,25.54,25.56,25.57,25.58,25.59,25.61,25.62
+North America,All,Meat ,Mutton,All,All,Kilograms/capita,0.29,0.23,0.24,0.27,0.31,0.31,0.31,0.32,0.32,0.33,0.33,0.34,0.34
+North America,All,Meat ,Poultry,All,All,Kilograms/capita,49.00,49.11,49.18,49.22,49.26,49.27,49.27,49.28,49.28,49.29,49.30,49.30,49.31
+North America,All,Meat ,Pork,All,All,Kilograms/capita,23.10,23.00,23.06,23.08,23.09,23.09,23.10,23.11,23.11,23.12,23.13,23.13,23.14
+North America,All,Meat ,Other Meat,All,All,Kilograms/capita,0.09,0.06,0.05,0.04,0.03,0.04,0.04,0.05,0.06,0.06,0.07,0.07,0.08
+North America,All,Seafood,All,All,All,Kilograms/capita,22.86,23.22,22.07,22.84,22.83,22.85,22.86,22.88,22.90,22.92,22.93,22.95,22.97
+North America,All,Seafood,Fish,All,All,Kilograms/capita,16.80,16.81,16.82,16.83,16.84,16.84,16.84,16.85,16.85,16.85,16.85,16.86,16.86
+North America,All,Seafood,Shrimp,All,All,Kilograms/capita,2.29,2.44,2.60,2.77,2.96,2.97,2.98,2.99,3.00,3.01,3.02,3.03,3.04
+North America,All,Seafood,Other Seafood,All,All,Kilograms/capita,3.78,3.97,2.65,3.24,3.03,3.04,3.04,3.05,3.05,3.06,3.06,3.07,3.07
+North America,United States,Meat ,All,All,All,Kilograms/capita,97.72,98.90,99.96,101.60,102.33,102.34,102.54,102.64,102.76,102.86,102.96,103.06,103.16
+North America,United States,Meat ,Beef,All,All,Kilograms/capita,25.31,25.94,26.06,26.32,26.20,26.45,26.51,26.57,26.63,26.69,26.75,26.81,26.87
+North America,United States,Meat ,Mutton,All,All,Kilograms/capita,0.45,0.48,0.51,0.44,0.43,0.43,0.43,0.43,0.43,0.43,0.43,0.43,0.43
+North America,United States,Meat ,Poultry,All,All,Kilograms/capita,48.42,48.90,49.44,50.10,50.96,50.80,50.90,50.90,50.91,50.91,50.90,50.89,50.89
+North America,United States,Meat ,Pork,All,All,Kilograms/capita,22.88,22.89,23.25,24.00,23.98,23.88,23.90,23.91,23.93,23.95,23.97,23.98,24.00
+North America,United States,Meat ,Other Meat,All,All,Kilograms/capita,0.66,0.68,0.71,0.73,0.76,0.78,0.80,0.83,0.86,0.88,0.91,0.94,0.97
+North America,United States,Seafood,All,All,All,Kilograms/capita,21.04,22.00,21.88,22.12,22.16,22.21,22.26,22.31,22.36,22.41,22.46,22.50,22.55
+North America,United States,Seafood,Fish,All,All,Kilograms/capita,15.47,15.56,15.77,15.82,15.97,16.00,16.03,16.06,16.09,16.13,16.16,16.19,16.22
+North America,United States,Seafood,Shrimp,All,All,Kilograms/capita,1.85,1.96,2.09,2.13,2.17,2.19,2.23,2.27,2.31,2.35,2.39,2.43,2.47
+North America,United States,Seafood,Other Seafood,All,All,Kilograms/capita,3.72,4.48,4.03,4.17,4.02,4.02,4.00,3.98,3.95,3.93,3.91,3.89,3.86
+North America,Canada,Meat ,All,All,All,Kilograms/capita,68.42,69.04,71.29,70.20,69.97,70.06,70.05,70.12,70.13,70.06,69.96,69.96,69.93
+North America,Canada,Meat ,Beef,All,All,Kilograms/capita,18.32,18.27,18.42,17.62,17.58,17.39,17.19,16.99,16.84,16.65,16.46,16.32,16.17
+North America,Canada,Meat ,Mutton,All,All,Kilograms/capita,0.93,0.97,1.02,0.98,0.97,0.97,0.97,0.97,0.96,0.95,0.94,0.93,0.92
+North America,Canada,Meat ,Poultry,All,All,Kilograms/capita,33.19,33.41,34.84,35.33,35.53,35.79,36.09,36.37,36.57,36.78,36.98,37.18,37.36
+North America,Canada,Meat ,Pork,All,All,Kilograms/capita,15.98,16.37,17.00,16.26,15.88,15.90,15.79,15.77,15.75,15.67,15.56,15.51,15.45
+North America,Canada,Meat ,Other Meat,All,All,Kilograms/capita,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.02,0.02,0.02,0.02,0.03,0.03
+North America,Canada,Seafood,All,All,All,Kilograms/capita,22.67,22.45,22.49,22.52,22.56,22.59,22.63,22.66,22.70,22.73,22.77,22.80,22.84
+North America,Canada,Seafood,Fish,All,All,Kilograms/capita,19.18,18.98,19.01,19.05,19.09,19.10,19.12,19.14,19.15,19.17,19.19,19.20,19.22
+North America,Canada,Seafood,Shrimp,All,All,Kilograms/capita,1.36,1.38,1.40,1.41,1.43,1.45,1.48,1.51,1.55,1.58,1.62,1.65,1.69
+North America,Canada,Seafood,Other Seafood,All,All,Kilograms/capita,2.13,2.09,2.08,2.06,2.04,2.04,2.03,2.01,2.00,1.98,1.97,1.95,1.93
+North America,Mexico,Meat ,All,All,All,Kilograms/capita,52.18,53.43,54.59,55.31,55.19,55.40,55.56,55.74,55.96,56.12,56.31,56.46,56.61
+North America,Mexico,Meat ,Beef,All,All,Kilograms/capita,9.13,9.16,9.24,9.17,8.97,8.99,9.00,9.04,9.10,9.10,9.13,9.11,9.09
+North America,Mexico,Meat ,Mutton,All,All,Kilograms/capita,0.52,0.53,0.53,0.55,0.54,0.54,0.54,0.54,0.54,0.54,0.54,0.54,0.54
+North America,Mexico,Meat ,Poultry,All,All,Kilograms/capita,29.06,29.79,30.10,30.53,30.59,30.71,30.82,30.91,31.03,31.14,31.24,31.36,31.47
+North America,Mexico,Meat ,Pork,All,All,Kilograms/capita,12.84,13.31,14.05,14.40,14.42,14.49,14.53,14.57,14.62,14.67,14.72,14.77,14.82
+North America,Mexico,Meat ,Other Meat,All,All,Kilograms/capita,0.62,0.65,0.66,0.66,0.67,0.67,0.67,0.68,0.68,0.68,0.68,0.69,0.69
+North America,Mexico,Seafood,All,All,All,Kilograms/capita,14.99,14.81,14.96,14.88,15.13,15.17,15.40,15.60,15.71,15.71,15.74,15.83,16.03
+North America,Mexico,Seafood,Fish,All,All,Kilograms/capita,11.67,11.85,11.97,12.06,12.07,12.08,12.09,12.10,12.11,12.12,12.13,12.14,12.15
+North America,Mexico,Seafood,Shrimp,All,All,Kilograms/capita,1.61,1.64,1.67,1.70,1.72,1.74,1.76,1.78,1.80,1.82,1.84,1.86,1.88
+North America,Mexico,Seafood,Other Seafood,All,All,Kilograms/capita,1.71,1.32,1.32,1.12,1.34,1.35,1.55,1.72,1.80,1.77,1.77,1.83,2.00
+North America,Rest of North America,Meat ,All,All,All,Kilograms/capita,97.54,97.65,97.71,97.76,97.77,97.77,97.78,97.78,97.78,97.79,97.79,97.80,97.80
+North America,Rest of North America,Meat ,Beef,All,All,Kilograms/capita,24.67,24.68,24.68,24.71,24.72,24.73,24.74,24.75,24.76,24.77,24.78,24.79,24.80
+North America,Rest of North America,Meat ,Mutton,All,All,Kilograms/capita,0.23,0.23,0.23,0.23,0.23,0.23,0.23,0.24,0.24,0.24,0.24,0.24,0.25
+North America,Rest of North America,Meat ,Poultry,All,All,Kilograms/capita,47.68,47.71,47.76,47.81,47.88,47.88,47.88,47.88,47.88,47.89,47.89,47.89,47.89
+North America,Rest of North America,Meat ,Pork,All,All,Kilograms/capita,23.64,23.67,23.70,23.73,23.76,23.77,23.77,23.78,23.79,23.80,23.80,23.81,23.82
+North America,Rest of North America,Meat ,Other Meat,All,All,Kilograms/capita,1.32,1.36,1.34,1.28,1.18,1.16,1.15,1.13,1.11,1.10,1.08,1.06,1.05
+North America,Rest of North America,Seafood,All,All,All,Kilograms/capita,23.54,23.56,23.64,23.69,23.71,23.73,23.75,23.77,23.79,23.82,23.84,23.86,23.88
+North America,Rest of North America,Seafood,Fish,All,All,Kilograms/capita,17.11,17.13,17.15,17.18,17.20,17.22,17.23,17.25,17.26,17.28,17.30,17.31,17.33
+North America,Rest of North America,Seafood,Shrimp,All,All,Kilograms/capita,2.34,2.42,2.49,2.58,2.66,2.66,2.66,2.67,2.67,2.67,2.67,2.68,2.68
+North America,Rest of North America,Seafood,Other Seafood,All,All,Kilograms/capita,4.09,4.01,3.99,3.94,3.85,3.85,3.86,3.86,3.86,3.86,3.87,3.87,3.87
+Europe,All,Meat ,All,All,All,Kilograms/capita,64.60,64.54,64.77,64.58,63.80,64.12,64.50,64.87,65.26,65.64,66.02,66.41,66.80
+Europe,All,Meat ,Beef,All,All,Kilograms/capita,10.60,10.63,10.67,10.58,10.66,10.70,10.66,10.61,10.57,10.53,10.48,10.44,10.40
+Europe,All,Meat ,Mutton,All,All,Kilograms/capita,1.70,1.72,1.74,1.76,1.75,1.78,1.80,1.81,1.83,1.85,1.86,1.88,1.90
+Europe,All,Meat ,Poultry,All,All,Kilograms/capita,24.30,24.52,24.74,24.97,25.41,25.66,25.71,25.76,25.81,25.85,25.90,25.95,26.00
+Europe,All,Meat ,Pork,All,All,Kilograms/capita,28.00,28.06,28.14,28.22,28.09,28.34,28.36,28.39,28.41,28.43,28.45,28.48,28.50
+Europe,All,Meat ,Other Meat,All,All,Kilograms/capita,1.23,1.27,1.29,1.31,1.13,1.19,1.21,1.22,1.24,1.26,1.27,1.29,1.31
+Europe,All,Seafood,All,All,All,Kilograms/capita,23.11,23.07,23.26,23.13,23.22,23.27,23.31,23.35,23.39,23.42,23.46,23.50,23.54
+Europe,All,Seafood,Fish,All,All,Kilograms/capita,18.46,18.33,18.67,18.54,18.57,18.68,18.70,18.71,18.73,18.75,18.77,18.78,18.80
+Europe,All,Seafood,Shrimp,All,All,Kilograms/capita,1.34,1.35,1.37,1.36,1.39,1.41,1.42,1.42,1.43,1.44,1.45,1.45,1.46
+Europe,All,Seafood,Other Seafood,All,All,Kilograms/capita,3.31,3.39,3.22,3.23,3.26,3.18,3.19,3.21,3.22,3.24,3.25,3.27,3.28
+Europe,Germany,Meat ,All,All,All,Kilograms/capita,60.11,59.74,60.20,59.30,57.20,58.01,58.11,58.11,58.13,58.14,58.15,58.16,58.76
+Europe,Germany,Meat ,Beef,All,All,Kilograms/capita,9.80,10.00,9.90,10.00,9.80,10.05,10.07,10.06,10.05,10.04,10.04,10.03,10.02
+Europe,Germany,Meat ,Mutton,All,All,Kilograms/capita,0.60,0.60,0.70,0.60,0.70,0.78,0.78,0.77,0.77,0.76,0.76,0.75,0.75
+Europe,Germany,Meat ,Poultry,All,All,Kilograms/capita,12.40,12.40,13.20,13.80,13.30,13.50,13.53,13.55,13.58,13.61,13.64,13.66,13.69
+Europe,Germany,Meat ,Pork,All,All,Kilograms/capita,36.70,36.10,35.70,34.10,32.80,33.04,33.07,33.05,33.04,33.02,33.00,32.99,32.97
+Europe,Germany,Meat ,Other Meat,All,All,Kilograms/capita,0.61,0.64,0.70,0.80,0.60,0.64,0.66,0.67,0.69,0.70,0.71,0.73,0.74
+Europe,Germany,Seafood,All,All,All,Kilograms/capita,14.40,14.10,14.50,14.30,14.10,14.33,14.36,14.39,14.42,14.46,14.49,14.52,14.55
+Europe,Germany,Seafood,Fish,All,All,Kilograms/capita,10.21,9.99,10.26,10.18,10.14,10.24,10.22,10.19,10.17,10.15,10.13,10.10,10.08
+Europe,Germany,Seafood,Shrimp,All,All,Kilograms/capita,0.78,0.89,0.96,0.59,0.39,0.49,0.53,0.58,0.62,0.66,0.70,0.75,0.79
+Europe,Germany,Seafood,Other Seafood,All,All,Kilograms/capita,3.41,3.22,3.28,3.53,3.57,3.60,3.61,3.62,3.63,3.65,3.66,3.67,3.68
+Europe,France,Meat ,All,All,All,Kilograms/capita,84.54,84.07,87.05,86.18,85.22,86.26,86.39,86.52,86.65,86.78,86.92,87.05,87.19
+Europe,France,Meat ,Beef,All,All,Kilograms/capita,23.20,22.90,23.30,23.00,22.50,22.84,22.89,22.93,22.98,23.02,23.07,23.11,23.16
+Europe,France,Meat ,Mutton,All,All,Kilograms/capita,2.90,2.80,2.80,2.80,2.70,2.87,2.84,2.81,2.79,2.76,2.73,2.71,2.68
+Europe,France,Meat ,Poultry,All,All,Kilograms/capita,25.30,25.80,27.20,27.70,27.70,27.73,27.74,27.75,27.76,27.78,27.79,27.80,27.81
+Europe,France,Meat ,Pork,All,All,Kilograms/capita,32.30,31.70,32.90,31.80,31.50,31.91,31.99,32.07,32.14,32.22,32.30,32.38,32.46
+Europe,France,Meat ,Other Meat,All,All,Kilograms/capita,0.84,0.87,0.85,0.88,0.82,0.91,0.93,0.96,0.98,1.00,1.03,1.05,1.08
+Europe,France,Seafood,All,All,All,Kilograms/capita,33.20,33.70,33.50,33.65,33.67,33.71,33.75,33.79,33.83,33.86,33.90,33.94,33.98
+Europe,France,Seafood,Fish,All,All,Kilograms/capita,23.90,23.94,23.86,23.92,23.97,24.03,24.12,24.20,24.29,24.38,24.46,24.55,24.64
+Europe,France,Seafood,Shrimp,All,All,Kilograms/capita,1.66,1.61,1.50,1.78,2.00,2.11,2.18,2.26,2.34,2.42,2.50,2.59,2.68
+Europe,France,Seafood,Other Seafood,All,All,Kilograms/capita,7.64,8.15,8.14,7.95,7.70,7.57,7.45,7.33,7.20,7.07,6.94,6.80,6.66
+Europe,Spain,Meat ,All,All,All,Kilograms/capita,52.19,52.06,51.16,51.27,52.30,52.60,52.73,52.86,52.99,53.12,53.25,53.38,53.51
+Europe,Spain,Meat ,Beef,All,All,Kilograms/capita,5.62,5.19,4.87,4.85,5.40,5.44,5.49,5.54,5.58,5.63,5.68,5.73,5.78
+Europe,Spain,Meat ,Mutton,All,All,Kilograms/capita,1.22,1.34,1.21,1.38,1.40,1.43,1.45,1.46,1.48,1.49,1.51,1.52,1.54
+Europe,Spain,Meat ,Poultry,All,All,Kilograms/capita,33.05,33.24,33.21,33.32,33.84,33.87,33.91,33.95,33.99,34.03,34.07,34.11,34.15
+Europe,Spain,Meat ,Pork,All,All,Kilograms/capita,11.32,11.41,11.13,11.00,10.90,11.08,11.10,11.12,11.14,11.17,11.19,11.21,11.23
+Europe,Spain,Meat ,Other Meat,All,All,Kilograms/capita,0.98,0.88,0.74,0.72,0.76,0.78,0.78,0.79,0.79,0.80,0.80,0.81,0.81
+Europe,Spain,Seafood,All,All,All,Kilograms/capita,25.50,23.70,23.10,22.50,22.67,22.76,22.85,22.94,23.04,23.13,23.22,23.32,23.41
+Europe,Spain,Seafood,Fish,All,All,Kilograms/capita,20.11,19.45,19.37,19.08,18.79,18.81,18.82,18.83,18.85,18.86,18.88,18.90,18.91
+Europe,Spain,Seafood,Shrimp,All,All,Kilograms/capita,2.56,2.78,2.89,3.00,3.07,3.13,3.18,3.24,3.30,3.36,3.42,3.49,3.55
+Europe,Spain,Seafood,Other Seafood,All,All,Kilograms/capita,2.83,1.47,0.84,0.42,0.81,0.83,0.85,0.87,0.89,0.90,0.92,0.94,0.95
+Europe,Russia,Meat ,All,All,All,Kilograms/capita,61.98,64.31,64.55,65.41,65.45,65.87,66.11,66.39,66.71,67.04,67.38,67.74,68.10
+Europe,Russia,Meat ,Beef,All,All,Kilograms/capita,10.02,9.84,10.00,10.07,10.03,10.02,10.03,10.04,10.05,10.07,10.08,10.10,10.11
+Europe,Russia,Meat ,Mutton,All,All,Kilograms/capita,1.31,1.32,1.29,1.27,1.28,1.27,1.28,1.28,1.29,1.29,1.30,1.30,1.31
+Europe,Russia,Meat ,Poultry,All,All,Kilograms/capita,28.83,30.44,30.43,30.62,30.82,30.89,31.05,31.19,31.36,31.53,31.70,31.89,32.07
+Europe,Russia,Meat ,Pork,All,All,Kilograms/capita,19.18,20.04,19.95,20.58,20.71,20.92,20.98,21.09,21.22,21.35,21.49,21.64,21.78
+Europe,Russia,Meat ,Other Meat,All,All,Kilograms/capita,2.64,2.67,2.88,2.86,2.61,2.77,2.78,2.78,2.79,2.80,2.81,2.81,2.82
+Europe,Russia,Seafood,All,All,All,Kilograms/capita,20.76,20.51,21.61,20.74,20.77,20.82,20.94,21.06,21.18,21.30,21.42,21.54,21.66
+Europe,Russia,Seafood,Fish,All,All,Kilograms/capita,16.54,16.28,16.74,16.64,16.84,16.91,16.93,16.96,16.98,17.01,17.03,17.06,17.08
+Europe,Russia,Seafood,Shrimp,All,All,Kilograms/capita,1.38,1.40,1.57,1.61,1.68,1.71,1.72,1.73,1.74,1.75,1.76,1.77,1.78
+Europe,Russia,Seafood,Other Seafood,All,All,Kilograms/capita,2.84,2.83,3.30,2.49,2.25,2.20,2.28,2.37,2.46,2.54,2.63,2.72,2.80
+Europe,Italy,Meat ,All,All,All,Kilograms/capita,67.42,67.66,67.80,67.77,64.46,64.83,65.19,65.55,65.91,66.28,66.64,67.02,67.39
+Europe,Italy,Meat ,Beef,All,All,Kilograms/capita,16.80,16.90,17.30,17.50,16.20,16.00,16.07,16.14,16.20,16.27,16.34,16.41,16.48
+Europe,Italy,Meat ,Mutton,All,All,Kilograms/capita,0.74,0.77,0.78,0.79,0.67,0.69,0.70,0.72,0.74,0.75,0.77,0.78,0.80
+Europe,Italy,Meat ,Poultry,All,All,Kilograms/capita,19.65,19.62,19.67,19.72,19.76,19.87,19.92,19.97,20.02,20.06,20.11,20.16,20.21
+Europe,Italy,Meat ,Pork,All,All,Kilograms/capita,29.20,29.30,29.00,28.70,26.80,27.22,27.42,27.63,27.83,28.04,28.25,28.46,28.67
+Europe,Italy,Meat ,Other Meat,All,All,Kilograms/capita,1.03,1.07,1.05,1.06,1.03,1.05,1.07,1.10,1.12,1.15,1.18,1.20,1.23
+Europe,Italy,Seafood,All,All,All,Kilograms/capita,29.81,29.87,29.00,31.02,31.00,31.08,31.21,31.34,31.47,31.61,31.74,31.87,32.00
+Europe,Italy,Seafood,Fish,All,All,Kilograms/capita,22.60,22.76,22.01,22.76,22.81,22.86,22.86,22.87,22.87,22.88,22.88,22.89,22.89
+Europe,Italy,Seafood,Shrimp,All,All,Kilograms/capita,2.11,2.24,2.32,2.33,2.41,2.43,2.44,2.45,2.46,2.48,2.49,2.50,2.51
+Europe,Italy,Seafood,Other Seafood,All,All,Kilograms/capita,5.10,4.87,4.67,5.93,5.78,5.79,5.91,6.02,6.14,6.25,6.37,6.49,6.60
+Europe,United Kingdom,Meat ,All,All,All,Kilograms/capita,61.29,60.09,61.59,62.14,62.17,62.34,62.34,62.23,62.19,62.13,61.99,61.88,61.87
+Europe,United Kingdom,Meat ,Beef,All,All,Kilograms/capita,11.70,11.71,11.74,11.41,11.33,11.36,11.34,11.25,11.19,11.14,11.09,11.03,11.06
+Europe,United Kingdom,Meat ,Mutton,All,All,Kilograms/capita,4.30,4.03,3.92,3.94,3.93,3.91,3.90,3.89,3.87,3.86,3.85,3.84,3.83
+Europe,United Kingdom,Meat ,Poultry,All,All,Kilograms/capita,27.57,27.05,28.43,30.06,30.45,30.50,30.52,30.52,30.54,30.56,30.55,30.55,30.56
+Europe,United Kingdom,Meat ,Pork,All,All,Kilograms/capita,17.06,16.63,16.83,16.05,15.82,15.91,15.91,15.91,15.91,15.88,15.81,15.76,15.71
+Europe,United Kingdom,Meat ,Other Meat,All,All,Kilograms/capita,0.66,0.68,0.67,0.69,0.65,0.66,0.67,0.67,0.68,0.69,0.70,0.70,0.71
+Europe,United Kingdom,Seafood,All,All,All,Kilograms/capita,26.47,26.31,26.34,26.50,26.44,26.61,26.62,26.63,26.64,26.64,26.65,26.66,26.67
+Europe,United Kingdom,Seafood,Fish,All,All,Kilograms/capita,19.86,19.38,20.43,20.13,20.13,20.26,20.61,20.84,20.98,21.01,21.25,21.41,21.71
+Europe,United Kingdom,Seafood,Shrimp,All,All,Kilograms/capita,1.23,1.34,1.36,1.37,1.33,1.35,1.36,1.36,1.37,1.38,1.39,1.39,1.40
+Europe,United Kingdom,Seafood,Other Seafood,All,All,Kilograms/capita,5.38,5.59,4.55,5.00,4.98,5.00,4.65,4.42,4.28,4.26,4.02,3.86,3.56
+Europe,Netherlands,Meat ,All,All,All,Kilograms/capita,78.70,79.10,80.70,79.41,79.40,79.40,79.39,79.39,79.38,79.38,79.37,79.37,79.36
+Europe,Netherlands,Meat ,Beef,All,All,Kilograms/capita,16.90,17.90,18.90,17.90,17.30,17.29,17.27,17.26,17.25,17.24,17.22,17.21,17.20
+Europe,Netherlands,Meat ,Mutton,All,All,Kilograms/capita,5.34,5.26,5.29,5.72,5.30,5.29,5.28,5.26,5.25,5.24,5.23,5.21,5.20
+Europe,Netherlands,Meat ,Poultry,All,All,Kilograms/capita,22.20,22.10,22.50,22.24,23.00,23.08,23.16,23.24,23.32,23.40,23.48,23.56,23.64
+Europe,Netherlands,Meat ,Pork,All,All,Kilograms/capita,33.50,33.50,33.70,33.10,33.50,33.45,33.39,33.34,33.29,33.24,33.18,33.13,33.08
+Europe,Netherlands,Meat ,Other Meat,All,All,Kilograms/capita,0.76,0.34,0.31,0.45,0.30,0.29,0.29,0.28,0.27,0.27,0.26,0.25,0.24
+Europe,Netherlands,Seafood,All,All,All,Kilograms/capita,21.82,21.77,21.68,21.71,21.73,21.75,21.77,21.78,21.80,21.82,21.84,21.85,21.87
+Europe,Netherlands,Seafood,Fish,All,All,Kilograms/capita,15.61,15.71,15.75,15.81,15.82,15.85,15.87,15.88,15.90,15.91,15.93,15.94,15.96
+Europe,Netherlands,Seafood,Shrimp,All,All,Kilograms/capita,2.04,1.89,2.01,2.07,2.09,2.11,2.24,2.26,2.27,2.29,2.31,2.32,2.34
+Europe,Netherlands,Seafood,Other Seafood,All,All,Kilograms/capita,4.17,4.17,3.92,3.83,3.82,3.79,3.66,3.65,3.63,3.62,3.60,3.59,3.57
+Europe,Rest of Europe,Meat ,All,All,All,Kilograms/capita,64.68,65.21,65.85,66.05,66.33,67.19,67.29,67.39,67.49,67.59,67.69,67.80,67.90
+Europe,Rest of Europe,Meat ,Beef,All,All,Kilograms/capita,10.52,10.58,10.74,10.61,10.83,11.03,11.06,11.09,11.12,11.14,11.17,11.20,11.23
+Europe,Rest of Europe,Meat ,Mutton,All,All,Kilograms/capita,1.73,1.76,1.79,1.83,1.87,1.89,1.90,1.90,1.91,1.92,1.93,1.93,1.94
+Europe,Rest of Europe,Meat ,Poultry,All,All,Kilograms/capita,24.12,24.28,24.46,24.59,24.83,25.12,25.15,25.19,25.22,25.26,25.29,25.33,25.36
+Europe,Rest of Europe,Meat ,Pork,All,All,Kilograms/capita,27.56,27.61,27.78,27.91,27.79,28.03,28.04,28.05,28.06,28.07,28.08,28.09,28.10
+Europe,Rest of Europe,Meat ,Other Meat,All,All,Kilograms/capita,0.75,0.98,1.08,1.11,1.01,1.12,1.14,1.16,1.18,1.20,1.23,1.25,1.27
+Europe,Rest of Europe,Seafood,All,All,All,Kilograms/capita,22.20,22.16,22.44,22.24,22.33,22.41,22.45,22.49,22.54,22.58,22.62,22.67,22.71
+Europe,Rest of Europe,Seafood,Fish,All,All,Kilograms/capita,18.23,18.06,18.35,18.12,18.08,18.19,18.21,18.22,18.24,18.26,18.28,18.29,18.31
+Europe,Rest of Europe,Seafood,Shrimp,All,All,Kilograms/capita,1.03,1.08,1.12,1.08,1.16,1.21,1.22,1.23,1.24,1.25,1.26,1.27,1.28
+Europe,Rest of Europe,Seafood,Other Seafood,All,All,Kilograms/capita,2.94,3.02,2.97,3.04,3.09,3.01,3.03,3.04,3.06,3.07,3.09,3.10,3.12
+Asia-Pacific,All,Meat ,All,All,All,Kilograms/capita,35.12,34.87,34.95,34.56,34.47,35.46,35.65,35.85,36.04,36.24,36.44,36.64,36.84
+Asia-Pacific,All,Meat ,Beef,All,All,Kilograms/capita,5.30,5.22,5.41,5.32,5.35,5.40,5.44,5.47,5.51,5.55,5.58,5.62,5.66
+Asia-Pacific,All,Meat ,Mutton,All,All,Kilograms/capita,2.50,2.44,2.36,2.21,2.02,2.24,2.31,2.39,2.46,2.54,2.63,2.71,2.80
+Asia-Pacific,All,Meat ,Poultry,All,All,Kilograms/capita,10.60,10.67,10.70,10.72,10.64,10.78,10.87,10.97,11.06,11.16,11.25,11.35,11.45
+Asia-Pacific,All,Meat ,Pork,All,All,Kilograms/capita,15.90,15.87,15.71,15.69,15.66,15.68,15.76,15.84,15.92,16.00,16.08,16.16,16.24
+Asia-Pacific,All,Meat ,Other Meat,All,All,Kilograms/capita,0.82,0.67,0.77,0.62,0.80,1.36,1.27,1.18,1.09,0.99,0.89,0.79,0.69
+Asia-Pacific,All,Seafood,All,All,All,Kilograms/capita,17.06,17.04,17.12,17.26,17.29,17.38,17.42,17.46,17.50,17.55,17.59,17.63,17.67
+Asia-Pacific,All,Seafood,Fish,All,All,Kilograms/capita,14.32,13.97,13.92,13.99,13.95,13.98,14.00,14.02,14.04,14.08,14.10,14.12,14.13
+Asia-Pacific,All,Seafood,Shrimp,All,All,Kilograms/capita,0.65,0.65,0.66,0.67,0.61,0.64,0.66,0.67,0.69,0.71,0.72,0.74,0.75
+Asia-Pacific,All,Seafood,Other Seafood,All,All,Kilograms/capita,2.09,2.42,2.54,2.60,2.73,2.76,2.76,2.77,2.77,2.78,2.78,2.78,2.78
+Asia-Pacific,China,Meat ,All,All,All,Kilograms/capita,50.27,50.07,50.35,46.78,45.47,46.24,47.79,49.36,50.95,52.58,53.28,53.49,53.71
+Asia-Pacific,China,Meat ,Beef,All,All,Kilograms/capita,3.38,3.52,3.62,4.09,4.19,4.14,4.10,4.05,4.00,3.96,3.97,3.98,3.99
+Asia-Pacific,China,Meat ,Mutton,All,All,Kilograms/capita,3.00,3.05,3.10,3.24,3.31,3.35,3.40,3.45,3.50,3.55,3.57,3.58,3.60
+Asia-Pacific,China,Meat ,Poultry,All,All,Kilograms/capita,11.89,11.77,12.32,14.02,14.19,14.00,13.82,13.84,13.87,13.90,13.96,14.03,14.11
+Asia-Pacific,China,Meat ,Pork,All,All,Kilograms/capita,30.95,30.67,30.25,24.37,22.72,23.68,25.39,26.94,28.50,30.07,30.69,30.81,30.92
+Asia-Pacific,China,Meat ,Other Meat,All,All,Kilograms/capita,1.05,1.06,1.06,1.07,1.07,1.07,1.08,1.08,1.08,1.09,1.09,1.09,1.10
+Asia-Pacific,China,Seafood,All,All,All,Kilograms/capita,20.97,21.41,22.52,22.78,23.29,23.59,24.74,25.16,25.51,25.72,26.17,26.64,27.06
+Asia-Pacific,China,Seafood,Fish,All,All,Kilograms/capita,17.89,18.28,19.29,19.52,19.97,20.23,21.28,21.64,21.94,22.11,22.51,22.92,23.28
+Asia-Pacific,China,Seafood,Shrimp,All,All,Kilograms/capita,1.28,1.30,1.35,1.37,1.40,1.43,1.48,1.50,1.53,1.55,1.58,1.61,1.64
+Asia-Pacific,China,Seafood,Other Seafood,All,All,Kilograms/capita,1.80,1.82,1.88,1.89,1.92,1.93,1.99,2.02,2.04,2.05,2.08,2.11,2.13
+Asia-Pacific,India,Meat ,All,All,All,Kilograms/capita,3.48,3.48,3.69,3.64,3.72,3.80,3.87,3.94,4.01,4.09,4.17,4.25,4.34
+Asia-Pacific,India,Meat ,Beef,All,All,Kilograms/capita,0.47,0.43,0.56,0.53,0.53,0.54,0.54,0.54,0.54,0.55,0.55,0.55,0.55
+Asia-Pacific,India,Meat ,Mutton,All,All,Kilograms/capita,0.48,0.47,0.46,0.46,0.46,0.46,0.46,0.46,0.46,0.46,0.46,0.46,0.46
+Asia-Pacific,India,Meat ,Poultry,All,All,Kilograms/capita,2.28,2.33,2.41,2.40,2.52,2.59,2.65,2.72,2.79,2.86,2.93,3.01,3.09
+Asia-Pacific,India,Meat ,Pork,All,All,Kilograms/capita,0.19,0.18,0.17,0.17,0.17,0.17,0.16,0.16,0.16,0.16,0.15,0.15,0.15
+Asia-Pacific,India,Meat ,Other Meat,All,All,Kilograms/capita,0.07,0.08,0.08,0.08,0.04,0.05,0.05,0.06,0.06,0.07,0.08,0.08,0.09
+Asia-Pacific,India,Seafood,All,All,All,Kilograms/capita,6.96,7.27,7.45,7.63,7.66,7.73,7.70,7.76,7.71,7.85,7.85,7.86,7.85
+Asia-Pacific,India,Seafood,Fish,All,All,Kilograms/capita,5.38,5.41,5.43,5.43,5.44,5.46,5.56,5.67,5.77,5.88,5.99,6.11,6.22
+Asia-Pacific,India,Seafood,Shrimp,All,All,Kilograms/capita,0.57,0.65,0.71,0.78,0.79,0.77,0.79,0.81,0.82,0.84,0.86,0.87,0.89
+Asia-Pacific,India,Seafood,Other Seafood,All,All,Kilograms/capita,1.01,1.21,1.31,1.42,1.43,1.50,1.35,1.29,1.11,1.13,1.00,0.88,0.74
+Asia-Pacific,Australia,Meat ,All,All,All,Kilograms/capita,95.05,95.60,91.88,90.81,90.48,90.42,90.76,91.18,90.77,90.86,90.84,90.83,90.95
+Asia-Pacific,Australia,Meat ,Beef,All,All,Kilograms/capita,19.47,21.25,19.97,19.70,19.44,19.19,19.09,18.86,18.52,18.44,18.37,18.29,18.22
+Asia-Pacific,Australia,Meat ,Mutton,All,All,Kilograms/capita,8.50,7.76,6.98,6.18,5.87,5.91,5.88,6.05,6.08,6.05,5.94,5.82,5.81
+Asia-Pacific,Australia,Meat ,Poultry,All,All,Kilograms/capita,44.51,43.35,42.35,43.49,43.79,44.13,44.50,44.84,44.71,44.80,44.89,45.00,45.12
+Asia-Pacific,Australia,Meat ,Pork,All,All,Kilograms/capita,21.40,22.06,21.40,20.25,20.21,20.00,20.09,20.20,20.22,20.30,20.35,20.41,20.46
+Asia-Pacific,Australia,Meat ,Other Meat,All,All,Kilograms/capita,1.16,1.18,1.18,1.19,1.16,1.18,1.20,1.22,1.25,1.27,1.29,1.32,1.34
+Asia-Pacific,Australia,Seafood,All,All,All,Kilograms/capita,13.90,13.70,13.50,12.40,12.15,12.21,12.16,12.11,12.06,12.01,11.97,11.92,11.87
+Asia-Pacific,Australia,Seafood,Fish,All,All,Kilograms/capita,11.00,10.60,10.47,9.90,9.73,9.73,9.67,9.62,9.58,9.54,9.50,9.45,9.41
+Asia-Pacific,Australia,Seafood,Shrimp,All,All,Kilograms/capita,0.78,1.10,1.04,0.68,0.65,0.72,0.72,0.69,0.67,0.65,0.62,0.60,0.58
+Asia-Pacific,Australia,Seafood,Other Seafood,All,All,Kilograms/capita,2.90,3.10,3.03,2.50,2.42,2.48,2.49,2.48,2.48,2.48,2.47,2.46,2.46
+Asia-Pacific,Japan,Meat ,All,All,All,Kilograms/capita,38.77,40.07,40.98,41.65,41.73,41.78,41.80,41.75,41.79,41.85,41.91,41.98,42.06
+Asia-Pacific,Japan,Meat ,Beef,All,All,Kilograms/capita,6.87,7.00,7.36,7.54,7.64,7.66,7.67,7.60,7.61,7.62,7.63,7.64,7.65
+Asia-Pacific,Japan,Meat ,Mutton,All,All,Kilograms/capita,0.14,0.15,0.17,0.17,0.16,0.16,0.16,0.15,0.15,0.15,0.15,0.15,0.14
+Asia-Pacific,Japan,Meat ,Poultry,All,All,Kilograms/capita,16.32,16.90,17.37,17.70,17.73,17.79,17.84,17.90,17.97,18.04,18.12,18.21,18.29
+Asia-Pacific,Japan,Meat ,Pork,All,All,Kilograms/capita,15.38,15.94,16.00,16.16,16.13,16.11,16.06,16.02,15.99,15.96,15.93,15.91,15.89
+Asia-Pacific,Japan,Meat ,Other Meat,All,All,Kilograms/capita,0.07,0.07,0.08,0.08,0.06,0.07,0.07,0.07,0.08,0.08,0.08,0.08,0.09
+Asia-Pacific,Japan,Seafood,All,All,All,Kilograms/capita,24.80,24.40,24.10,23.94,23.88,23.91,23.98,24.05,24.13,24.20,24.27,24.35,24.42
+Asia-Pacific,Japan,Seafood,Fish,All,All,Kilograms/capita,18.96,18.99,19.04,19.23,19.24,19.35,19.42,19.50,19.58,19.65,19.73,19.80,19.88
+Asia-Pacific,Japan,Seafood,Shrimp,All,All,Kilograms/capita,1.88,1.74,1.64,1.53,1.50,1.48,1.48,1.47,1.46,1.46,1.45,1.45,1.44
+Asia-Pacific,Japan,Seafood,Other Seafood,All,All,Kilograms/capita,3.96,3.67,3.42,3.18,3.14,3.08,3.08,3.08,3.09,3.09,3.09,3.10,3.10
+Asia-Pacific,South Korea,Meat ,All,All,All,Kilograms/capita,59.23,61.22,64.30,68.10,68.21,68.31,68.42,68.52,68.62,68.73,68.83,68.94,69.01
+Asia-Pacific,South Korea,Meat ,Beef,All,All,Kilograms/capita,11.60,11.30,12.70,13.00,12.90,13.80,13.86,13.91,13.97,14.03,14.08,14.14,14.20
+Asia-Pacific,South Korea,Meat ,Mutton,All,All,Kilograms/capita,7.02,7.41,7.84,8.12,8.71,8.74,8.77,8.81,8.84,8.87,8.90,8.94,8.97
+Asia-Pacific,South Korea,Meat ,Poultry,All,All,Kilograms/capita,13.22,13.36,13.46,13.57,13.68,13.78,13.89,14.00,14.07,14.15,14.22,14.30,14.37
+Asia-Pacific,South Korea,Meat ,Pork,All,All,Kilograms/capita,24.10,24.50,27.00,26.80,27.10,27.60,27.63,27.65,27.68,27.70,27.73,27.75,27.78
+Asia-Pacific,South Korea,Meat ,Other Meat,All,All,Kilograms/capita,3.29,4.65,3.30,6.61,5.82,4.39,4.27,4.15,4.06,3.98,3.89,3.81,3.69
+Asia-Pacific,South Korea,Seafood,All,All,All,Kilograms/capita,57.40,65.90,68.40,69.80,69.91,70.02,70.08,70.13,70.19,70.24,70.30,70.35,70.41
+Asia-Pacific,South Korea,Seafood,Fish,All,All,Kilograms/capita,46.55,49.21,49.64,49.87,49.88,49.92,50.03,50.13,50.24,50.34,50.45,50.55,50.66
+Asia-Pacific,South Korea,Seafood,Shrimp,All,All,Kilograms/capita,4.36,6.89,7.21,7.88,7.97,8.10,8.11,8.12,8.13,8.13,8.14,8.15,8.16
+Asia-Pacific,South Korea,Seafood,Other Seafood,All,All,Kilograms/capita,6.49,9.80,11.55,12.05,12.06,12.00,11.95,11.89,11.83,11.77,11.71,11.65,11.59
+Asia-Pacific,Indonesia,Meat ,All,All,All,Kilograms/capita,11.22,11.01,11.04,11.38,11.53,11.72,11.91,12.11,12.31,12.51,12.70,12.88,13.07
+Asia-Pacific,Indonesia,Meat ,Beef,All,All,Kilograms/capita,1.89,1.89,2.03,2.16,2.18,2.20,2.23,2.25,2.27,2.30,2.33,2.36,2.38
+Asia-Pacific,Indonesia,Meat ,Mutton,All,All,Kilograms/capita,0.39,0.43,0.43,0.43,0.43,0.43,0.43,0.43,0.44,0.44,0.44,0.44,0.44
+Asia-Pacific,Indonesia,Meat ,Poultry,All,All,Kilograms/capita,7.90,7.67,7.55,7.76,7.90,8.05,8.21,8.38,8.54,8.70,8.86,9.01,9.16
+Asia-Pacific,Indonesia,Meat ,Pork,All,All,Kilograms/capita,1.03,1.02,1.02,1.01,1.01,1.02,1.03,1.04,1.04,1.05,1.05,1.05,1.06
+Asia-Pacific,Indonesia,Meat ,Other Meat,All,All,Kilograms/capita,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.02,0.02,0.02,0.03,0.03
+Asia-Pacific,Indonesia,Seafood,All,All,All,Kilograms/capita,42.31,44.67,44.98,45.07,45.16,45.25,45.33,45.42,45.51,45.60,45.69,45.78,45.87
+Asia-Pacific,Indonesia,Seafood,Fish,All,All,Kilograms/capita,35.16,37.45,37.80,38.89,39.04,39.20,39.25,39.30,39.34,39.39,39.43,39.48,39.52
+Asia-Pacific,Indonesia,Seafood,Shrimp,All,All,Kilograms/capita,2.50,2.53,2.52,2.17,2.18,2.13,2.15,2.17,2.19,2.21,2.23,2.25,2.27
+Asia-Pacific,Indonesia,Seafood,Other Seafood,All,All,Kilograms/capita,4.65,4.69,4.66,4.00,3.93,3.92,3.93,3.95,3.98,4.00,4.03,4.05,4.08
+Asia-Pacific,Malaysia,Meat ,All,All,All,Kilograms/capita,62.15,60.33,60.65,60.44,61.08,61.59,62.06,62.52,63.00,63.47,64.00,64.52,65.08
+Asia-Pacific,Malaysia,Meat ,Beef,All,All,Kilograms/capita,5.40,5.22,5.30,5.33,5.41,5.52,5.63,5.73,5.82,5.91,6.00,6.08,6.17
+Asia-Pacific,Malaysia,Meat ,Mutton,All,All,Kilograms/capita,1.06,1.20,1.12,1.04,1.07,1.10,1.12,1.14,1.16,1.19,1.21,1.23,1.25
+Asia-Pacific,Malaysia,Meat ,Poultry,All,All,Kilograms/capita,50.18,48.52,48.80,48.75,49.33,49.73,50.11,50.49,50.88,51.28,51.71,52.16,52.64
+Asia-Pacific,Malaysia,Meat ,Pork,All,All,Kilograms/capita,5.49,5.38,5.43,5.31,5.26,5.24,5.20,5.16,5.12,5.09,5.06,5.03,5.00
+Asia-Pacific,Malaysia,Meat ,Other Meat,All,All,Kilograms/capita,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.02,0.02,0.02,0.03
+Asia-Pacific,Malaysia,Seafood,All,All,All,Kilograms/capita,59.47,58.70,58.17,58.52,58.23,57.48,57.54,57.59,57.65,57.71,57.77,57.82,57.88
+Asia-Pacific,Malaysia,Seafood,Fish,All,All,Kilograms/capita,46.39,46.42,46.23,46.48,46.48,46.54,46.59,46.63,46.68,46.72,46.77,46.81,46.86
+Asia-Pacific,Malaysia,Seafood,Shrimp,All,All,Kilograms/capita,5.05,4.98,4.82,4.95,4.81,4.83,4.77,4.72,4.66,4.61,4.56,4.50,4.45
+Asia-Pacific,Malaysia,Seafood,Other Seafood,All,All,Kilograms/capita,8.03,7.30,7.12,7.09,6.94,6.11,6.18,6.24,6.31,6.38,6.44,6.51,6.57
+Asia-Pacific,Rest of Asia-Pacific,Meat ,All,All,All,Kilograms/capita,34.58,34.38,34.95,34.87,36.75,36.87,36.91,36.96,37.00,37.05,37.10,37.14,37.19
+Asia-Pacific,Rest of Asia-Pacific,Meat ,Beef,All,All,Kilograms/capita,5.18,5.14,5.45,5.25,5.40,5.65,5.66,5.67,5.68,5.69,5.70,5.71,5.72
+Asia-Pacific,Rest of Asia-Pacific,Meat ,Mutton,All,All,Kilograms/capita,1.90,1.88,2.25,1.90,2.52,2.21,2.22,2.24,2.25,2.26,2.27,2.29,2.30
+Asia-Pacific,Rest of Asia-Pacific,Meat ,Poultry,All,All,Kilograms/capita,10.72,10.76,10.40,10.85,11.45,11.51,11.52,11.52,11.53,11.54,11.55,11.55,11.56
+Asia-Pacific,Rest of Asia-Pacific,Meat ,Pork,All,All,Kilograms/capita,16.08,16.01,16.20,16.20,16.55,16.05,16.04,16.03,16.02,16.00,15.99,15.98,15.97
+Asia-Pacific,Rest of Asia-Pacific,Meat ,Other Meat,All,All,Kilograms/capita,0.70,0.59,0.65,0.67,0.83,1.45,1.48,1.50,1.53,1.56,1.58,1.61,1.64
+Asia-Pacific,Rest of Asia-Pacific,Seafood,All,All,All,Kilograms/capita,15.24,14.89,15.07,16.29,15.68,16.34,16.38,16.42,16.45,16.49,16.53,16.57,16.61
+Asia-Pacific,Rest of Asia-Pacific,Seafood,Fish,All,All,Kilograms/capita,12.95,12.30,12.19,13.18,12.62,12.89,12.91,12.93,12.95,12.96,12.98,13.00,13.02
+Asia-Pacific,Rest of Asia-Pacific,Seafood,Shrimp,All,All,Kilograms/capita,0.58,0.42,0.75,0.68,0.56,0.78,0.78,0.79,0.80,0.80,0.81,0.82,0.82
+Asia-Pacific,Rest of Asia-Pacific,Seafood,Other Seafood,All,All,Kilograms/capita,1.71,2.17,2.12,2.44,2.50,2.67,2.68,2.70,2.71,2.73,2.74,2.76,2.77
+South America,All,Meat ,All,All,All,Kilograms/capita,64.76,65.71,66.10,66.42,66.84,67.14,67.18,67.40,67.64,67.90,68.14,68.43,68.75
+South America,All,Meat ,Beef,All,All,Kilograms/capita,18.41,18.57,18.62,18.61,18.73,18.76,18.74,18.74,18.76,18.80,18.81,18.85,18.88
+South America,All,Meat ,Mutton,All,All,Kilograms/capita,0.57,0.57,0.57,0.56,0.56,0.56,0.56,0.56,0.56,0.56,0.56,0.56,0.56
+South America,All,Meat ,Poultry,All,All,Kilograms/capita,34.01,34.43,34.45,34.77,35.01,35.10,35.02,35.14,35.26,35.39,35.52,35.67,35.87
+South America,All,Meat ,Pork,All,All,Kilograms/capita,11.00,11.38,11.68,11.69,11.86,11.97,12.10,12.19,12.28,12.37,12.46,12.55,12.63
+South America,All,Meat ,Other Meat,All,All,Kilograms/capita,0.77,0.76,0.78,0.79,0.68,0.75,0.76,0.77,0.78,0.78,0.79,0.80,0.81
+South America,All,Seafood,All,All,All,Kilograms/capita,10.00,10.24,10.36,10.34,10.50,10.58,10.72,10.86,10.92,11.00,11.04,11.06,11.13
+South America,All,Seafood,Fish,All,All,Kilograms/capita,7.68,7.77,7.82,7.94,7.98,8.01,8.04,8.07,8.09,8.12,8.15,8.18,8.21
+South America,All,Seafood,Shrimp,All,All,Kilograms/capita,0.71,0.73,0.77,0.76,0.75,0.75,0.76,0.76,0.77,0.77,0.78,0.78,0.79
+South America,All,Seafood,Other Seafood,All,All,Kilograms/capita,1.61,1.74,1.77,1.64,1.77,1.82,1.92,2.03,2.06,2.10,2.11,2.09,2.13
+South America,Brazil,Meat ,All,All,All,Kilograms/capita,78.17,79.19,78.85,79.11,78.72,79.02,79.09,78.97,79.04,79.19,79.14,79.11,79.07
+South America,Brazil,Meat ,Beef,All,All,Kilograms/capita,25.39,25.37,25.26,25.19,24.45,24.61,24.56,24.62,24.65,24.75,24.69,24.60,24.50
+South America,Brazil,Meat ,Mutton,All,All,Kilograms/capita,0.55,0.53,0.52,0.52,0.52,0.52,0.52,0.52,0.52,0.52,0.52,0.52,0.52
+South America,Brazil,Meat ,Poultry,All,All,Kilograms/capita,40.32,40.91,40.11,40.30,40.76,40.77,40.67,40.63,40.59,40.54,40.48,40.44,40.41
+South America,Brazil,Meat ,Pork,All,All,Kilograms/capita,11.70,12.15,12.71,12.85,12.75,12.86,13.06,12.92,12.99,13.08,13.16,13.25,13.33
+South America,Brazil,Meat ,Other Meat,All,All,Kilograms/capita,0.21,0.23,0.24,0.26,0.24,0.27,0.28,0.28,0.29,0.30,0.30,0.31,0.32
+South America,Brazil,Seafood,All,All,All,Kilograms/capita,9.01,9.38,9.04,9.04,9.20,9.29,9.47,9.60,9.74,9.83,9.95,10.09,10.23
+South America,Brazil,Seafood,Fish,All,All,Kilograms/capita,4.92,5.21,5.08,4.93,5.03,4.94,5.02,5.04,5.07,5.05,5.05,5.07,5.09
+South America,Brazil,Seafood,Shrimp,All,All,Kilograms/capita,0.88,0.92,0.95,0.97,1.01,1.05,1.09,1.13,1.18,1.22,1.27,1.32,1.37
+South America,Brazil,Seafood,Other Seafood,All,All,Kilograms/capita,3.21,3.25,3.01,3.14,3.16,3.30,3.36,3.43,3.49,3.56,3.63,3.70,3.77
+South America,Argentina,Meat ,All,All,All,Kilograms/capita,89.57,90.24,90.32,89.22,88.39,88.49,88.62,88.55,88.51,88.52,88.48,88.48,88.49
+South America,Argentina,Meat ,Beef,All,All,Kilograms/capita,39.04,39.58,38.88,37.99,36.89,36.85,36.89,36.76,36.63,36.52,36.39,36.26,36.14
+South America,Argentina,Meat ,Mutton,All,All,Kilograms/capita,1.01,0.97,0.97,0.97,0.97,0.97,0.97,0.98,0.98,0.98,0.98,0.98,0.98
+South America,Argentina,Meat ,Poultry,All,All,Kilograms/capita,38.93,38.34,38.46,37.92,38.09,38.12,38.16,38.20,38.25,38.30,38.35,38.40,38.46
+South America,Argentina,Meat ,Pork,All,All,Kilograms/capita,9.67,10.42,11.05,11.37,11.48,11.54,11.55,11.54,11.53,11.56,11.55,11.57,11.58
+South America,Argentina,Meat ,Other Meat,All,All,Kilograms/capita,0.92,0.94,0.95,0.97,0.96,1.00,1.04,1.08,1.13,1.17,1.22,1.27,1.32
+South America,Argentina,Seafood,All,All,All,Kilograms/capita,9.18,9.20,9.09,9.14,9.20,9.23,9.25,9.28,9.30,9.33,9.36,9.38,9.41
+South America,Argentina,Seafood,Fish,All,All,Kilograms/capita,6.03,6.93,6.84,6.52,6.56,6.53,6.63,6.70,6.75,6.75,6.80,6.84,6.89
+South America,Argentina,Seafood,Shrimp,All,All,Kilograms/capita,0.62,0.13,0.14,0.29,0.30,0.35,0.26,0.21,0.18,0.18,0.15,0.13,0.10
+South America,Argentina,Seafood,Other Seafood,All,All,Kilograms/capita,2.53,2.14,2.11,2.33,2.34,2.35,2.36,2.37,2.37,2.40,2.41,2.41,2.42
+South America,Rest of South America,Meat ,All,All,All,Kilograms/capita,63.61,64.58,65.30,65.44,65.91,66.36,66.41,66.45,66.50,66.54,66.59,66.63,66.68
+South America,Rest of South America,Meat ,Beef,All,All,Kilograms/capita,18.28,18.43,18.65,18.61,18.72,18.82,18.83,18.85,18.86,18.87,18.88,18.90,18.91
+South America,Rest of South America,Meat ,Mutton,All,All,Kilograms/capita,0.76,0.78,0.78,0.56,0.54,0.54,0.54,0.53,0.53,0.52,0.52,0.51,0.51
+South America,Rest of South America,Meat ,Poultry,All,All,Kilograms/capita,33.92,34.32,34.39,34.74,35.10,35.14,35.15,35.17,35.18,35.20,35.21,35.23,35.24
+South America,Rest of South America,Meat ,Pork,All,All,Kilograms/capita,10.02,10.46,10.83,10.86,10.96,11.13,11.15,11.16,11.18,11.20,11.22,11.23,11.25
+South America,Rest of South America,Meat ,Other Meat,All,All,Kilograms/capita,0.63,0.59,0.65,0.67,0.59,0.73,0.74,0.74,0.75,0.75,0.76,0.76,0.77
+South America,Rest of South America,Seafood,All,All,All,Kilograms/capita,9.99,10.31,10.25,10.42,10.61,10.72,10.75,10.78,10.81,10.84,10.87,10.90,10.93
+South America,Rest of South America,Seafood,Fish,All,All,Kilograms/capita,7.72,7.84,7.71,7.96,8.02,8.07,8.08,8.09,8.10,8.11,8.12,8.13,8.14
+South America,Rest of South America,Seafood,Shrimp,All,All,Kilograms/capita,0.63,0.68,0.72,0.68,0.66,0.67,0.67,0.68,0.68,0.68,0.68,0.69,0.69
+South America,Rest of South America,Seafood,Other Seafood,All,All,Kilograms/capita,1.64,1.79,1.82,1.78,1.93,1.98,2.00,2.01,2.03,2.05,2.06,2.08,2.10
+Middle East,All,Meat ,All,All,All,Kilograms/capita,63.75,65.19,65.64,65.87,66.15,66.43,66.70,67.12,67.55,67.99,68.42,68.87,69.15
+Middle East,All,Meat ,Beef,All,All,Kilograms/capita,9.35,9.65,9.69,9.72,9.76,9.77,9.80,10.09,10.39,10.69,10.99,11.30,11.41
+Middle East,All,Meat ,Mutton,All,All,Kilograms/capita,8.25,8.59,8.69,8.71,8.82,8.95,8.98,9.02,9.07,9.12,9.16,9.21,9.28
+Middle East,All,Meat ,Poultry,All,All,Kilograms/capita,44.44,44.99,45.19,45.30,45.38,45.40,45.55,45.57,45.59,45.61,45.63,45.65,45.67
+Middle East,All,Meat ,Pork,All,All,Kilograms/capita,1.00,1.25,1.33,1.40,1.44,1.54,1.59,1.64,1.69,1.74,1.79,1.85,1.91
+Middle East,All,Meat ,Other Meat,All,All,Kilograms/capita,0.71,0.72,0.74,0.75,0.76,0.78,0.79,0.80,0.82,0.83,0.85,0.86,0.88
+Middle East,All,Seafood,All,All,All,Kilograms/capita,20.39,20.47,20.68,20.85,20.78,20.99,21.04,21.10,21.16,21.21,21.27,21.33,21.39
+Middle East,All,Seafood,Fish,All,All,Kilograms/capita,14.11,14.23,14.45,14.56,14.43,14.74,14.91,14.97,15.02,15.08,15.13,15.18,15.24
+Middle East,All,Seafood,Shrimp,All,All,Kilograms/capita,1.42,1.40,1.38,1.45,1.43,1.30,1.18,1.18,1.18,1.18,1.18,1.18,1.18
+Middle East,All,Seafood,Other Seafood,All,All,Kilograms/capita,4.85,4.85,4.86,4.84,4.91,4.95,4.95,4.95,4.96,4.96,4.96,4.96,4.97
+Middle East,Saudi Arabia,Meat ,All,All,All,Kilograms/capita,52.18,44.88,45.28,45.17,45.09,45.06,45.06,45.07,45.10,45.14,45.20,45.27,45.36
+Middle East,Saudi Arabia,Meat ,Beef,All,All,Kilograms/capita,4.00,3.72,3.68,3.83,3.87,3.92,3.97,4.02,4.07,4.13,4.18,4.23,4.29
+Middle East,Saudi Arabia,Meat ,Mutton,All,All,Kilograms/capita,5.70,5.64,5.39,5.41,5.37,5.34,5.31,5.28,5.25,5.22,5.19,5.16,5.13
+Middle East,Saudi Arabia,Meat ,Poultry,All,All,Kilograms/capita,41.54,34.57,35.23,34.93,34.83,34.76,34.71,34.68,34.66,34.66,34.67,34.69,34.73
+Middle East,Saudi Arabia,Meat ,Pork,All,All,Kilograms/capita,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+Middle East,Saudi Arabia,Meat ,Other Meat,All,All,Kilograms/capita,0.94,0.96,0.98,1.00,1.03,1.05,1.07,1.09,1.12,1.14,1.17,1.19,1.22
+Middle East,Saudi Arabia,Seafood,All,All,All,Kilograms/capita,11.95,11.51,10.51,11.14,11.33,11.49,11.91,11.86,11.94,11.94,12.03,12.13,12.24
+Middle East,Saudi Arabia,Seafood,Fish,All,All,Kilograms/capita,8.27,8.00,7.34,7.78,7.87,8.07,8.44,8.41,8.48,8.48,8.56,8.63,8.72
+Middle East,Saudi Arabia,Seafood,Shrimp,All,All,Kilograms/capita,0.82,0.76,0.66,0.70,0.76,0.69,0.64,0.64,0.64,0.64,0.65,0.65,0.66
+Middle East,Saudi Arabia,Seafood,Other Seafood,All,All,Kilograms/capita,2.85,2.76,2.51,2.66,2.70,2.73,2.83,2.81,2.82,2.81,2.83,2.84,2.86
+Middle East,United Arab Emirates,Meat ,All,All,All,Kilograms/capita,72.52,73.53,69.82,74.80,68.49,76.31,80.11,80.30,80.48,80.66,80.85,81.03,81.22
+Middle East,United Arab Emirates,Meat ,Beef,All,All,Kilograms/capita,13.67,13.91,13.91,14.22,12.43,12.91,13.45,13.49,13.52,13.56,13.60,13.63,13.67
+Middle East,United Arab Emirates,Meat ,Mutton,All,All,Kilograms/capita,10.39,10.61,10.70,10.66,10.67,10.72,10.79,10.85,10.91,10.96,11.02,11.08,11.14
+Middle East,United Arab Emirates,Meat ,Poultry,All,All,Kilograms/capita,47.53,48.06,44.23,48.92,44.38,51.64,54.81,54.88,54.94,55.01,55.08,55.14,55.21
+Middle East,United Arab Emirates,Meat ,Pork,All,All,Kilograms/capita,0.06,0.07,0.08,0.08,0.07,0.09,0.09,0.10,0.10,0.11,0.11,0.12,0.12
+Middle East,United Arab Emirates,Meat ,Other Meat,All,All,Kilograms/capita,0.87,0.89,0.90,0.92,0.94,0.95,0.97,0.99,1.00,1.02,1.04,1.06,1.08
+Middle East,United Arab Emirates,Seafood,All,All,All,Kilograms/capita,25.02,25.11,25.21,25.30,25.44,25.50,25.56,25.63,25.69,25.75,25.81,25.88,25.94
+Middle East,United Arab Emirates,Seafood,Fish,All,All,Kilograms/capita,17.51,17.58,17.64,17.71,17.81,17.85,17.90,17.95,17.99,18.05,18.08,18.11,18.16
+Middle East,United Arab Emirates,Seafood,Shrimp,All,All,Kilograms/capita,2.08,2.09,2.10,2.10,2.12,2.12,2.13,2.14,2.14,2.14,2.15,2.15,2.16
+Middle East,United Arab Emirates,Seafood,Other Seafood,All,All,Kilograms/capita,5.42,5.44,5.46,5.49,5.52,5.53,5.54,5.55,5.57,5.58,5.61,5.63,5.65
+Middle East,Qatar,Meat ,All,All,All,Kilograms/capita,64.24,67.28,63.63,66.37,68.50,64.19,68.06,68.20,68.34,68.48,68.62,68.77,68.91
+Middle East,Qatar,Meat ,Beef,All,All,Kilograms/capita,6.18,6.63,7.29,7.93,8.52,9.22,9.94,9.96,9.98,10.00,10.02,10.04,10.06
+Middle East,Qatar,Meat ,Mutton,All,All,Kilograms/capita,14.33,14.25,14.32,14.50,14.52,14.51,14.54,14.55,14.56,14.57,14.58,14.59,14.60
+Middle East,Qatar,Meat ,Poultry,All,All,Kilograms/capita,42.87,45.51,41.12,43.02,44.53,39.50,42.60,42.69,42.78,42.87,42.96,43.05,43.15
+Middle East,Qatar,Meat ,Pork,All,All,Kilograms/capita,0.09,0.11,0.11,0.12,0.13,0.14,0.15,0.16,0.17,0.18,0.19,0.20,0.21
+Middle East,Qatar,Meat ,Other Meat,All,All,Kilograms/capita,0.77,0.78,0.79,0.80,0.81,0.82,0.83,0.84,0.85,0.86,0.87,0.88,0.89
+Middle East,Qatar,Seafood,All,All,All,Kilograms/capita,21.84,21.95,22.07,22.18,22.30,22.38,22.43,22.47,22.52,22.56,22.61,22.65,22.70
+Middle East,Qatar,Seafood,Fish,All,All,Kilograms/capita,14.96,15.14,15.11,15.34,15.44,15.51,15.51,15.52,15.52,15.53,15.53,15.53,15.54
+Middle East,Qatar,Seafood,Shrimp,All,All,Kilograms/capita,1.75,1.76,1.87,1.70,1.72,1.70,1.71,1.72,1.73,1.74,1.75,1.76,1.77
+Middle East,Qatar,Seafood,Other Seafood,All,All,Kilograms/capita,5.13,5.05,5.10,5.14,5.15,5.17,5.20,5.23,5.26,5.29,5.33,5.36,5.39
+Middle East,Bahrain,Meat ,All,All,All,Kilograms/capita,60.93,62.50,63.64,64.53,65.21,65.55,66.43,66.51,66.58,66.65,66.73,66.80,66.87
+Middle East,Bahrain,Meat ,Beef,All,All,Kilograms/capita,6.86,7.56,8.16,8.71,9.71,9.86,10.34,10.32,10.30,10.27,10.25,10.23,10.21
+Middle East,Bahrain,Meat ,Mutton,All,All,Kilograms/capita,19.05,19.37,19.50,19.67,19.22,19.32,19.67,19.71,19.75,19.79,19.83,19.87,19.92
+Middle East,Bahrain,Meat ,Poultry,All,All,Kilograms/capita,34.20,34.70,35.10,35.24,35.33,35.40,35.44,35.47,35.51,35.55,35.59,35.63,35.66
+Middle East,Bahrain,Meat ,Pork,All,All,Kilograms/capita,0.08,0.11,0.11,0.13,0.16,0.18,0.19,0.19,0.20,0.21,0.21,0.22,0.22
+Middle East,Bahrain,Meat ,Other Meat,All,All,Kilograms/capita,0.75,0.76,0.77,0.78,0.79,0.79,0.80,0.81,0.82,0.83,0.84,0.85,0.86
+Middle East,Bahrain,Seafood,All,All,All,Kilograms/capita,5.23,5.09,4.79,4.51,4.25,4.33,4.38,4.44,4.49,4.54,4.59,4.64,4.70
+Middle East,Bahrain,Seafood,Fish,All,All,Kilograms/capita,3.50,3.28,3.07,2.88,2.70,3.04,3.11,3.15,3.19,3.23,3.27,3.31,3.35
+Middle East,Bahrain,Seafood,Shrimp,All,All,Kilograms/capita,0.48,0.59,0.57,0.55,0.53,0.26,0.24,0.24,0.24,0.24,0.25,0.25,0.25
+Middle East,Bahrain,Seafood,Other Seafood,All,All,Kilograms/capita,1.25,1.22,1.15,1.08,1.01,1.03,1.04,1.05,1.06,1.07,1.08,1.09,1.10
+Middle East,Oman,Meat ,All,All,All,Kilograms/capita,60.29,62.23,63.30,63.63,61.43,62.39,63.29,63.52,63.75,63.98,64.21,64.45,64.68
+Middle East,Oman,Meat ,Beef,All,All,Kilograms/capita,15.84,15.76,15.87,16.11,16.26,16.28,16.34,16.38,16.42,16.47,16.51,16.55,16.59
+Middle East,Oman,Meat ,Mutton,All,All,Kilograms/capita,11.05,11.10,11.13,11.16,11.37,11.51,11.62,11.70,11.77,11.85,11.93,12.00,12.08
+Middle East,Oman,Meat ,Poultry,All,All,Kilograms/capita,32.44,34.41,35.32,35.37,32.78,33.55,34.27,34.37,34.47,34.57,34.67,34.77,34.87
+Middle East,Oman,Meat ,Pork,All,All,Kilograms/capita,0.08,0.08,0.09,0.10,0.12,0.13,0.14,0.15,0.16,0.17,0.18,0.19,0.20
+Middle East,Oman,Meat ,Other Meat,All,All,Kilograms/capita,0.88,0.88,0.89,0.89,0.90,0.90,0.91,0.91,0.92,0.92,0.93,0.93,0.94
+Middle East,Oman,Seafood,All,All,All,Kilograms/capita,28.24,28.54,28.64,28.78,28.98,29.01,29.07,29.14,29.20,29.27,29.33,29.40,29.46
+Middle East,Oman,Seafood,Fish,All,All,Kilograms/capita,19.50,19.88,20.09,20.29,20.50,20.54,20.61,20.67,20.74,20.80,20.86,20.93,20.99
+Middle East,Oman,Seafood,Shrimp,All,All,Kilograms/capita,2.11,2.10,1.94,1.82,1.79,1.77,1.72,1.68,1.64,1.60,1.56,1.52,1.47
+Middle East,Oman,Seafood,Other Seafood,All,All,Kilograms/capita,6.63,6.56,6.61,6.67,6.69,6.70,6.74,6.78,6.83,6.87,6.91,6.95,7.00
+Middle East,Kuwait,Meat ,All,All,All,Kilograms/capita,68.04,68.32,68.47,68.43,68.54,69.14,69.38,69.61,69.85,70.09,70.32,70.56,70.80
+Middle East,Kuwait,Meat ,Beef,All,All,Kilograms/capita,13.16,13.26,13.35,13.19,13.48,13.52,13.57,13.64,13.70,13.76,13.82,13.88,13.95
+Middle East,Kuwait,Meat ,Mutton,All,All,Kilograms/capita,12.69,12.75,12.60,12.77,12.85,12.91,12.96,13.04,13.12,13.20,13.28,13.36,13.44
+Middle East,Kuwait,Meat ,Poultry,All,All,Kilograms/capita,41.35,41.47,41.66,41.59,41.29,41.76,41.88,41.96,42.04,42.12,42.20,42.28,42.36
+Middle East,Kuwait,Meat ,Pork,All,All,Kilograms/capita,0.07,0.08,0.09,0.10,0.13,0.15,0.16,0.16,0.17,0.18,0.19,0.20,0.21
+Middle East,Kuwait,Meat ,Other Meat,All,All,Kilograms/capita,0.76,0.77,0.77,0.78,0.79,0.80,0.80,0.81,0.82,0.83,0.83,0.84,0.85
+Middle East,Kuwait,Seafood,All,All,All,Kilograms/capita,19.87,19.85,19.99,20.08,20.38,20.48,20.67,20.71,20.74,20.78,20.82,20.86,20.90
+Middle East,Kuwait,Seafood,Fish,All,All,Kilograms/capita,13.67,13.71,13.89,13.95,14.02,14.08,14.20,14.22,14.24,14.25,14.27,14.29,14.31
+Middle East,Kuwait,Seafood,Shrimp,All,All,Kilograms/capita,1.44,1.36,1.32,1.33,1.51,1.55,1.58,1.60,1.62,1.64,1.66,1.68,1.69
+Middle East,Kuwait,Seafood,Other Seafood,All,All,Kilograms/capita,4.76,4.78,4.78,4.80,4.85,4.85,4.89,4.89,4.89,4.89,4.89,4.89,4.89
+Middle East,Rest of Middle East,Meat ,All,All,All,Kilograms/capita,55.83,56.11,56.39,56.65,56.80,57.00,57.34,57.54,57.75,57.96,58.17,58.38,58.58
+Middle East,Rest of Middle East,Meat ,Beef,All,All,Kilograms/capita,5.14,5.25,5.19,5.29,5.32,5.40,5.59,5.64,5.69,5.74,5.79,5.84,5.89
+Middle East,Rest of Middle East,Meat ,Mutton,All,All,Kilograms/capita,5.92,5.98,6.19,6.31,6.41,6.43,6.48,6.54,6.60,6.66,6.72,6.78,6.84
+Middle East,Rest of Middle East,Meat ,Poultry,All,All,Kilograms/capita,44.05,44.15,44.27,44.30,44.32,44.39,44.48,44.57,44.65,44.73,44.82,44.90,44.99
+Middle East,Rest of Middle East,Meat ,Pork,All,All,Kilograms/capita,0.05,0.06,0.06,0.07,0.08,0.09,0.09,0.10,0.11,0.13,0.14,0.15,0.16
+Middle East,Rest of Middle East,Meat ,Other Meat,All,All,Kilograms/capita,0.67,0.67,0.68,0.68,0.68,0.69,0.69,0.69,0.70,0.70,0.70,0.71,0.71
+Middle East,Rest of Middle East,Seafood,All,All,All,Kilograms/capita,21.08,21.38,21.47,21.68,21.80,21.98,22.08,22.17,22.27,22.36,22.46,22.55,22.65
+Middle East,Rest of Middle East,Seafood,Fish,All,All,Kilograms/capita,14.50,14.77,14.92,15.06,14.99,15.11,15.17,15.23,15.28,15.34,15.39,15.45,15.51
+Middle East,Rest of Middle East,Seafood,Shrimp,All,All,Kilograms/capita,1.53,1.46,1.42,1.44,1.62,1.67,1.69,1.71,1.74,1.76,1.79,1.81,1.84
+Middle East,Rest of Middle East,Seafood,Other Seafood,All,All,Kilograms/capita,5.05,5.15,5.13,5.18,5.18,5.20,5.22,5.23,5.25,5.26,5.27,5.29,5.30
+Africa,South Africa,Meat ,All,All,All,Kilograms/capita,54.18,52.20,53.53,52.34,52.89,53.52,54.14,54.74,55.35,55.95,56.54,57.13,57.73
+Africa,South Africa,Meat ,Beef,All,All,Kilograms/capita,13.13,12.07,11.75,11.14,11.40,11.69,11.97,12.24,12.51,12.79,13.05,13.32,13.58
+Africa,South Africa,Meat ,Mutton,All,All,Kilograms/capita,2.96,2.68,2.63,2.59,2.59,2.58,2.57,2.57,2.57,2.56,2.56,2.56,2.55
+Africa,South Africa,Meat ,Poultry,All,All,Kilograms/capita,33.95,33.37,34.75,34.22,34.50,34.79,35.09,35.37,35.66,35.94,36.21,36.49,36.77
+Africa,South Africa,Meat ,Pork,All,All,Kilograms/capita,3.45,3.39,3.70,3.69,3.70,3.75,3.80,3.84,3.89,3.94,3.99,4.04,4.09
+Africa,South Africa,Meat ,Other Meat,All,All,Kilograms/capita,0.69,0.69,0.70,0.70,0.71,0.71,0.71,0.72,0.72,0.73,0.73,0.74,0.74
+Africa,South Africa,Seafood,All,All,All,Kilograms/capita,6.08,6.02,6.62,6.48,6.39,6.33,6.38,6.39,6.41,6.34,6.30,6.31,6.30
+Africa,South Africa,Seafood,Fish,All,All,Kilograms/capita,4.23,4.18,4.57,4.49,4.43,4.39,4.41,4.41,4.41,4.35,4.31,4.31,4.29
+Africa,South Africa,Seafood,Shrimp,All,All,Kilograms/capita,0.44,0.45,0.53,0.52,0.51,0.51,0.52,0.53,0.54,0.55,0.55,0.56,0.57
+Africa,South Africa,Seafood,Other Seafood,All,All,Kilograms/capita,1.41,1.39,1.51,1.48,1.45,1.44,1.45,1.45,1.46,1.45,1.44,1.44,1.44
+Africa,All,Meat ,All,All,All,Kilograms/capita,12.40,12.38,12.37,12.35,12.33,12.32,12.30,12.28,12.27,12.25,12.23,12.22,12.20
+Africa,All,Meat ,Beef,All,All,Kilograms/capita,8.80,8.82,8.85,8.87,8.90,8.92,8.95,8.97,9.00,9.02,9.05,9.07,9.10
+Africa,All,Meat ,Mutton,All,All,Kilograms/capita,2.10,2.09,2.08,2.07,2.07,2.06,2.05,2.04,2.03,2.02,2.02,2.01,2.00
+Africa,All,Meat ,Poultry,All,All,Kilograms/capita,5.40,5.44,5.51,5.70,6.02,6.21,6.31,6.40,6.49,6.59,6.68,6.78,6.88
+Africa,All,Meat ,Pork,All,All,Kilograms/capita,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+Africa,All,Meat ,Other Meat,All,All,Kilograms/capita,0.44,0.45,0.47,0.48,0.50,0.51,0.53,0.55,0.56,0.58,0.60,0.62,0.64
+Africa,All,Seafood,All,All,All,Kilograms/capita,7.16,7.07,6.99,7.09,7.14,7.17,7.21,7.25,7.30,7.34,7.38,7.43,7.47
+Africa,All,Seafood,Fish,All,All,Kilograms/capita,4.93,4.88,4.82,4.90,4.94,4.93,4.96,4.98,5.01,5.04,5.06,5.09,5.12
+Africa,All,Seafood,Shrimp,All,All,Kilograms/capita,0.60,0.60,0.60,0.58,0.60,0.63,0.64,0.64,0.64,0.64,0.65,0.65,0.65
+Africa,All,Seafood,Other Seafood,All,All,Kilograms/capita,1.63,1.60,1.57,1.61,1.60,1.61,1.62,1.63,1.65,1.66,1.67,1.69,1.70
+Africa,Egypt,Meat ,All,All,All,Kilograms/capita,22.07,21.48,20.15,20.55,20.67,20.87,21.06,21.25,21.46,21.67,21.88,22.10,22.32
+Africa,Egypt,Meat ,Beef,All,All,Kilograms/capita,8.88,8.18,7.72,7.82,7.80,7.84,7.86,7.89,7.91,7.95,7.97,7.99,8.01
+Africa,Egypt,Meat ,Mutton,All,All,Kilograms/capita,1.20,1.13,1.11,1.10,1.09,1.09,1.09,1.08,1.08,1.08,1.07,1.07,1.06
+Africa,Egypt,Meat ,Poultry,All,All,Kilograms/capita,11.51,11.68,10.81,11.11,11.24,11.39,11.54,11.70,11.87,12.04,12.21,12.40,12.59
+Africa,Egypt,Meat ,Pork,All,All,Kilograms/capita,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+Africa,Egypt,Meat ,Other Meat,All,All,Kilograms/capita,0.48,0.49,0.51,0.52,0.53,0.55,0.56,0.58,0.60,0.61,0.63,0.65,0.66
+Africa,Egypt,Seafood,All,All,All,Kilograms/capita,23.09,24.00,24.24,24.07,24.07,24.29,24.39,24.53,24.89,25.08,25.10,25.39,25.43
+Africa,Egypt,Seafood,Fish,All,All,Kilograms/capita,15.88,16.50,16.63,16.56,16.57,16.66,16.72,16.81,17.04,17.16,17.17,17.36,17.37
+Africa,Egypt,Seafood,Shrimp,All,All,Kilograms/capita,1.97,2.04,2.09,2.05,2.06,2.14,2.17,2.20,2.25,2.29,2.31,2.35,2.37
+Africa,Egypt,Seafood,Other Seafood,All,All,Kilograms/capita,5.23,5.46,5.52,5.46,5.44,5.49,5.50,5.52,5.60,5.63,5.63,5.68,5.68
+Africa,Nigeria,Meat ,All,All,All,Kilograms/capita,5.88,5.79,5.66,5.54,5.51,5.49,5.47,5.45,5.43,5.41,5.38,5.36,5.34
+Africa,Nigeria,Meat ,Beef,All,All,Kilograms/capita,1.39,1.37,1.34,1.31,1.31,1.30,1.30,1.30,1.29,1.29,1.28,1.27,1.26
+Africa,Nigeria,Meat ,Mutton,All,All,Kilograms/capita,1.83,1.83,1.78,1.73,1.72,1.71,1.70,1.69,1.68,1.66,1.65,1.64,1.63
+Africa,Nigeria,Meat ,Poultry,All,All,Kilograms/capita,0.99,0.93,0.89,0.86,0.84,0.83,0.81,0.79,0.78,0.76,0.75,0.73,0.72
+Africa,Nigeria,Meat ,Pork,All,All,Kilograms/capita,1.15,1.14,1.12,1.09,1.08,1.08,1.07,1.07,1.06,1.06,1.05,1.05,1.04
+Africa,Nigeria,Meat ,Other Meat,All,All,Kilograms/capita,0.51,0.52,0.54,0.55,0.56,0.57,0.59,0.60,0.62,0.63,0.65,0.66,0.68
+Africa,Nigeria,Seafood,All,All,All,Kilograms/capita,9.37,9.44,9.09,8.99,9.01,8.94,9.03,9.12,9.19,9.14,9.17,9.12,9.00
+Africa,Nigeria,Seafood,Fish,All,All,Kilograms/capita,6.45,6.49,6.24,6.18,6.20,6.13,6.19,6.25,6.29,6.26,6.27,6.23,6.15
+Africa,Nigeria,Seafood,Shrimp,All,All,Kilograms/capita,0.80,0.80,0.78,0.77,0.77,0.79,0.80,0.82,0.83,0.83,0.84,0.84,0.84
+Africa,Nigeria,Seafood,Other Seafood,All,All,Kilograms/capita,2.12,2.15,2.07,2.04,2.04,2.02,2.04,2.05,2.07,2.05,2.06,2.04,2.01
+Africa,Rest of Africa,Meat ,All,All,All,Kilograms/capita,17.65,17.85,18.15,18.44,18.63,18.89,19.17,19.43,19.70,19.97,20.25,20.53,20.81
+Africa,Rest of Africa,Meat ,Beef,All,All,Kilograms/capita,2.22,2.32,2.45,2.53,2.59,2.65,2.70,2.76,2.82,2.87,2.93,2.99,3.05
+Africa,Rest of Africa,Meat ,Mutton,All,All,Kilograms/capita,8.39,8.44,8.51,8.58,8.61,8.69,8.78,8.87,8.95,9.04,9.13,9.22,9.32
+Africa,Rest of Africa,Meat ,Poultry,All,All,Kilograms/capita,5.69,5.72,5.79,5.89,5.95,6.01,6.10,6.16,6.22,6.29,6.35,6.42,6.49
+Africa,Rest of Africa,Meat ,Pork,All,All,Kilograms/capita,0.89,0.91,0.92,0.95,0.96,1.00,1.03,1.07,1.11,1.15,1.19,1.23,1.27
+Africa,Rest of Africa,Meat ,Other Meat,All,All,Kilograms/capita,0.45,0.47,0.48,0.50,0.52,0.54,0.56,0.58,0.60,0.62,0.64,0.67,0.69
+Africa,Rest of Africa,Seafood,All,All,All,Kilograms/capita,5.89,6.15,6.08,6.18,6.31,6.36,6.39,6.41,6.44,6.47,6.49,6.52,6.54
+Africa,Rest of Africa,Seafood,Fish,All,All,Kilograms/capita,5.09,5.28,5.23,5.31,5.40,5.41,5.42,5.44,5.45,5.47,5.48,5.50,5.51
+Africa,Rest of Africa,Seafood,Shrimp,All,All,Kilograms/capita,0.53,0.55,0.56,0.54,0.56,0.59,0.59,0.59,0.59,0.59,0.59,0.59,0.59
+Africa,Rest of Africa,Seafood,Other Seafood,All,All,Kilograms/capita,0.15,0.16,0.16,0.15,0.16,0.16,0.16,0.16,0.16,0.16,0.16,0.16,0.17
