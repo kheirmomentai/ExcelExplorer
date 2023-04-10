@@ -25,7 +25,7 @@ if index_name not in pinecone.list_indexes():
         metric='dotproduct'
     )
 # connect to index
-index = pinecone.GRPCIndex(index_name)
+index = pinecone.Index(index_name)
 # view index stats
 index.describe_index_stats()
 # Read the Excel file
