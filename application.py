@@ -29,7 +29,7 @@ index = pinecone.GRPCIndex(index_name)
 # view index stats
 index.describe_index_stats()
 # Read the Excel file
-file_path = "../to_load/market_shares.csv"
+file_path = "data1.csv"
 df = pd.read_csv(file_path)
 
 # Convert the DataFrame to a string (remove index and header)
