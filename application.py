@@ -6,12 +6,12 @@ from time import sleep
 from tqdm.auto import tqdm
 import datetime
 from time import sleep
-index_name = 'gpt-4-langchain-docs'
-openai.api_key = "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"
+
+openai.api_key = "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"
 embed_model = "text-embedding-ada-002"
-# initialize connection to pinecone
+index_name = 'table-1'
 pinecone.init(
-    api_key="17516b20-b2a9-4a05-80bf-1a610b963582",  # app.pinecone.io (console)
+    api_key="e945a9f0-abed-415e-b69a-a791213bdafa",  # app.pinecone.io (console)
     environment="us-central1-gcp"  # next to API key in console
 )
 
@@ -29,7 +29,7 @@ index = pinecone.Index(index_name)
 # view index stats
 index.describe_index_stats()
 # Read the Excel file
-file_path = "data1.csv"
+file_path = "data.csv"
 df = pd.read_csv(file_path)
 
 # Convert the DataFrame to a string (remove index and header)
@@ -43,7 +43,7 @@ excel_string = df.to_string(index=False, header=False)
 
 # Divide the string into chunks of 5 to 10 rows
 rows = excel_string.split('\n')
-chunk_size = 15  # You can change this to any number of rows you want per chunk
+chunk_size = 5  # You can change this to any number of rows you want per chunk
 chunks_text = ['\n'.join([header_str] + rows[i:i+chunk_size]) for i in range(0, len(rows), chunk_size)]
 
 # Convert chunks to the desired format
@@ -68,17 +68,11 @@ for i in tqdm(range(0, len(chunks), batch_size)):
     # get texts to encode
     texts = [x['text'] for x in meta_batch]
     # create embeddings (try-except added to avoid RateLimitError)
-    try:
-        res = openai.Embedding.create(input=texts, engine=embed_model)
-    except:
-        done = False
-        while not done:
-            sleep(5)
-            try:
-                res = openai.Embedding.create(input=texts, engine=embed_model)
-                done = True
-            except:
-                pass
+
+    print("hi")
+    res = openai.Embedding.create(input=texts, engine=embed_model)
+    print(res)
+
     embeds = [record['embedding'] for record in res['data']]
     # cleanup metadata
     meta_batch = [{
@@ -137,5 +131,4 @@ each question. If the information can not be found in the information provided b
     """)
 
 if __name__ == "__main__":
-    app.run(port=8000)
-
+    app.run()
